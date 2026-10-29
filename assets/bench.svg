@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1166" height="250" viewBox="0 0 1166 250" role="img" aria-label="Tools on the evidence bench: Python, PyTorch, YOLOv8, InsightFace, XGBoost, SHAP, Claude Agent SDK, LangGraph, MCP, FastAPI, Next.js, TypeScript, Supabase, pgvector, Docker"><title>Tools on the evidence bench: Python, PyTorch, YOLOv8, InsightFace, XGBoost, SHAP, Claude Agent SDK, LangGraph, MCP, FastAPI, Next.js, TypeScript, Supabase, pgvector, Docker</title>
+<rect width="1166" height="250" rx="14" fill="#0b0b0c"/>
+<rect x="24" y="27" width="214" height="58" rx="9" fill="#050506"/>
+<rect x="24" y="22" width="214" height="58" rx="9" fill="#18181c" stroke="#2b2b30"/>
+<text x="38" y="57" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >Python</text>
+<rect x="250" y="27" width="214" height="58" rx="9" fill="#050506"/>
+<rect x="250" y="22" width="214" height="58" rx="9" fill="#18181c" stroke="#2b2b30"/>
+<text x="264" y="57" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >PyTorch</text>
+<rect x="476" y="27" width="214" height="58" rx="9" fill="#050506"/>
+<rect x="476" y="22" width="214" height="58" rx="9" fill="#18181c" stroke="#2b2b30"/>
+<text x="490" y="57" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >YOLOv8</text>
+<rect x="702" y="27" width="214" height="58" rx="9" fill="#050506"/>
+<rect x="702" y="22" width="214" height="58" rx="9" fill="#18181c" stroke="#2b2b30"/>
+<text x="716" y="57" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >InsightFace</text>
+<rect x="928" y="27" width="214" height="58" rx="9" fill="#050506"/>
+<rect x="928" y="22" width="214" height="58" rx="9" fill="#18181c" stroke="#2b2b30"/>
+<text x="942" y="57" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >XGBoost</text>
+<rect x="24" y="97" width="214" height="58" rx="9" fill="#050506"/>
+<rect x="24" y="92" width="214" height="58" rx="9" fill="#18181c" stroke="#2b2b30"/>
+<text x="38" y="127" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >SHAP</text>
+<rect x="250" y="97" width="214" height="58" rx="9" fill="#050506"/>
+<rect x="250" y="92" width="214" height="58" rx="9" fill="#18181c" stroke="#2b2b30"/>
+<text x="264" y="127" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >Claude Agent SDK</text>
+<rect x="476" y="97" width="214" height="58" rx="9" fill="#050506"/>
+<rect x="476" y="92" width="214" height="58" rx="9" fill="#18181c" stroke="#2b2b30"/>
+<text x="490" y="127" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >LangGraph</text>
+<rect x="702" y="97" width="214" height="58" rx="9" fill="#050506"/>
+<rect x="702" y="92" width="214" height="58" rx="9" fill="#18181c" stroke="#2b2b30"/>
+<text x="716" y="127" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >MCP</text>
+<rect x="928" y="97" width="214" height="58" rx="9" fill="#050506"/>
+<rect x="928" y="92" width="214" height="58" rx="9" fill="#18181c" stroke="#2b2b30"/>
+<text x="942" y="127" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >FastAPI</text>
+<rect x="24" y="167" width="214" height="58" rx="9" fill="#050506"/>
+<rect x="24" y="162" width="214" height="58" rx="9" fill="#18181c" stroke="#2b2b30"/>
+<text x="38" y="197" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >Next.js</text>
+<rect x="250" y="167" width="214" height="58" rx="9" fill="#050506"/>
+<rect x="250" y="162" width="214" height="58" rx="9" fill="#18181c" stroke="#2b2b30"/>
+<text x="264" y="197" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >TypeScript</text>
+<rect x="476" y="167" width="214" height="58" rx="9" fill="#050506"/>
+<rect x="476" y="162" width="214" height="58" rx="9" fill="#18181c" stroke="#2b2b30"/>
+<text x="490" y="197" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >Supabase</text>
+<rect x="702" y="167" width="214" height="58" rx="9" fill="#050506"/>
+<rect x="702" y="162" width="214" height="58" rx="9" fill="#18181c" stroke="#2b2b30"/>
+<text x="716" y="197" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >pgvector</text>
+<rect x="928" y="167" width="214" height="58" rx="9" fill="#050506"/>
+<rect x="928" y="162" width="214" height="58" rx="9" fill="#18181c" stroke="#2b2b30"/>
+<text x="942" y="197" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >Docker</text>
+</svg>

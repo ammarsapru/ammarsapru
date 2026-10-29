@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="300" viewBox="0 0 580 300" role="img" aria-label="Case file 01: Waypoint"><title>Case file 01: Waypoint</title>
+<rect width="580" height="300" rx="4" fill="#f3ead9"/>
+<rect width="580" height="12" rx="4" fill="#dccfb0"/>
+<text x="24" y="42" font-family="'Courier New', Courier, monospace" font-size="11" font-weight="700" fill="#5a5a60" text-anchor="start" letter-spacing="2.5" >CASE FILE No. 01</text>
+<text x="556" y="42" font-family="'Courier New', Courier, monospace" font-size="11" font-weight="700" fill="#5a5a60" text-anchor="end" letter-spacing="2" >CLOSED · SHIPPED</text>
+<text x="24" y="76" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="#16161a" text-anchor="start" letter-spacing="0" >Waypoint</text>
+<text x="24" y="106.0" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#3c3c42" text-anchor="start" letter-spacing="0" >The problem. New engineers take weeks to learn a codebase, and the</text>
+<text x="24" y="126.3" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#3c3c42" text-anchor="start" letter-spacing="0" >people who can explain it are the most expensive to interrupt.</text>
+<path d="M24 158H556" stroke="#c4b492" stroke-dasharray="5 4"/>
+<text x="24" y="184" font-family="'Courier New', Courier, monospace" font-size="11" font-weight="700" fill="#5a5a60" text-anchor="start" letter-spacing="2.5" >EVIDENCE</text>
+<text x="24" y="220" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="#16161a" text-anchor="start" letter-spacing="0" >47 s</text>
+<text x="24" y="244" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#3c3c42" text-anchor="start" letter-spacing="0" >to map Django: 2,927 files, 82,649 links</text>
+<text x="24" y="278" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="600" fill="#22384f" text-anchor="start" letter-spacing="0" >Python · FastAPI · React · Claude · MCP</text>
+<text x="556" y="278" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1d4f91" text-anchor="end" letter-spacing="0" >open file ▸</text>
+</svg>

@@ -1,0 +1,79 @@
+{
+  "name": "Ammar Sheikh",
+  "user": "ammarsapru",
+  "case_id": "AS-2027",
+  "tagline": "I build AI systems that hold up under scrutiny.",
+  "subtitle": "AI/ML engineer · B.S. Computational Data Science, Penn State (Dec 2027) · from Lahore",
+  "intro": "Computer vision on live CCTV, agents that cite their sources, models that explain themselves. Every claim below has evidence filed behind it.",
+  "status": "Open to Summer 2027 ML / software internships",
+  "links": {
+    "portfolio": "https://protfolio-site-seven.vercel.app/",
+    "linkedin": "https://www.linkedin.com/in/ammar-sheikh-703247317",
+    "devpost": "https://devpost.com/ammarsapru",
+    "huggingface": "https://huggingface.co/ammarsapru",
+    "email": "ammarsaboor40@gmail.com"
+  },
+  "cases": [
+    {
+      "id": "waypoint", "no": "01", "status": "CLOSED · SHIPPED", "name": "Waypoint",
+      "problem": "New engineers take weeks to learn a codebase, and the people who can explain it are the most expensive to interrupt.",
+      "metric": "47 s", "metric_note": "to map Django: 2,927 files, 82,649 links",
+      "stack": ["Python", "FastAPI", "React", "Claude", "MCP"],
+      "url": "https://github.com/ammarsapru/Waypoint"
+    },
+    {
+      "id": "detector", "no": "02", "status": "CLOSED · DEPLOYED", "name": "AI vs Real Detector",
+      "problem": "AI-generated images are getting impossible to tell from photos, and misinformation spreads on them.",
+      "metric": "98.5%", "metric_note": "accuracy on 4,200 held-out images",
+      "stack": ["PyTorch", "CLIP", "EfficientNet", "FFT"],
+      "url": "https://huggingface.co/ammarsapru/AI_OR_NOT_CLASSIFICATION"
+    },
+    {
+      "id": "neuroxplain", "no": "03", "status": "OPEN · RESEARCH", "name": "NeuroXplain",
+      "problem": "A radiologist cannot trust an Alzheimer's prediction they cannot audit.",
+      "metric": "97.53%", "metric_note": "on 6,400 unseen MRI scans, all explained",
+      "stack": ["XGBoost", "SHAP", "Gradio"],
+      "url": "https://github.com/ammarsapru/AI_FOR_ALZHEIMERS"
+    },
+    {
+      "id": "arena", "no": "04", "status": "ACTIVE", "name": "Arena",
+      "problem": "Weekend-built apps ship with the same security holes, and nobody on the team can spot them.",
+      "metric": "9 / 9", "metric_note": "real users intact after every AI patch",
+      "stack": ["Python", "Flask", "Playwright", "LLM agents"],
+      "url": "https://github.com/ammarsapru/Arena"
+    },
+    {
+      "id": "alethia", "no": "05", "status": "CLOSED · SHIPPED", "name": "Alethia",
+      "problem": "Anyone should be able to check where a photo really came from, without enterprise OSINT tools.",
+      "metric": "150+", "metric_note": "sources per image across 4 search engines",
+      "stack": ["FastAPI", "Next.js", "GeoCLIP", "Gemini"],
+      "url": "https://github.com/ammarsapru/alethia-main"
+    },
+    {
+      "id": "brainstorm", "no": "06", "status": "CLOSED · SHIPPED", "name": "Brainstorm",
+      "problem": "Notes apps store ideas as static files; real thinking is a web of connections.",
+      "metric": "3 targets", "metric_note": "web, Docker and desktop from one codebase",
+      "stack": ["TypeScript", "React", "Supabase", "Electron"],
+      "url": "https://github.com/ammarsapru/Brainstorm"
+    }
+  ],
+  "more": [
+    ["Global Watch", "voice-driven country-intelligence globe", "https://github.com/ammarsapru/GLobal-Watch"],
+    ["Synapse Mail", "agentic email + calendar client", "https://github.com/ammarsapru/Synapse_mail"],
+    ["Internship Tracker", "AI-assisted job pipeline", "https://github.com/ammarsapru/Internship_tracker"],
+    ["AxiomTalent", "three-LLM resume consensus", "https://github.com/ammarsapru/AxiomTalent"],
+    ["NewsVeritas", "fake-news classifier, leakage removed", "https://github.com/ammarsapru/NewsVeritas"],
+    ["Kestrel", "HackPSU 2026 robot science playground", "https://github.com/usmannsiddiqui/kestrel"]
+  ],
+  "tools": ["Python", "PyTorch", "YOLOv8", "InsightFace", "XGBoost", "SHAP", "Claude Agent SDK", "LangGraph", "MCP", "FastAPI", "Next.js", "TypeScript", "Supabase", "pgvector", "Docker"],
+  "record": [
+    ["May–Aug 2026", "AI Engineer, SimpleLogix", "Face recognition on live CCTV; insurance risk-model migration"],
+    ["Jun–Jul 2026", "AI/ML Intern, Arbisoft", "Waypoint, 30-tool MCP server, RAG eval: hallucination 58% → 0%"],
+    ["Jul–Aug 2024", "Game Developer Intern, Mizo Studio", "Learned C# in a month; 20% faster runs on 5+ Unity titles"],
+    ["2023–Dec 2027", "B.S. Computational Data Science, Penn State", "Minor in Mathematics · Dean's List 2023"]
+  ],
+  "receipt": [
+    ["DEGREE", "B.S. CDS, DEC 27"], ["MINOR", "MATHEMATICS"], ["BEST ACCURACY", "98.5%"],
+    ["HALLUCINATION", "58% -> 0%"], ["HACKATHON", "HACK4HEALTH HM"], ["CERTS", "ANTHROPIC, IBM, DELOITTE"]
+  ]
+}
