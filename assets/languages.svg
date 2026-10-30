@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="250" viewBox="0 0 580 250" role="img" aria-label="Top languages: Python 51%, TypeScript 42%, JavaScript 6%, PLpgSQL 1%, TSQL 0%, Dockerfile 0%, Other 0%"><title>Top languages: Python 51%, TypeScript 42%, JavaScript 6%, PLpgSQL 1%, TSQL 0%, Dockerfile 0%, Other 0%</title>
+<rect width="580" height="250" rx="14" fill="#0b0b0c" stroke="#2b2b30"/>
+<text x="24" y="38" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" fill="#a3a3a0" text-anchor="start" letter-spacing="3" >LANGUAGES ON FILE</text>
+<text x="556" y="38" font-family="'Courier New', Courier, monospace" font-size="11" font-weight="400" fill="#a3a3a0" text-anchor="end" letter-spacing="0" >by bytes, own repos</text>
+<clipPath id="bar"><rect x="24" y="60" width="532" height="14" rx="7"/></clipPath><g clip-path="url(#bar)">
+<rect x="24.0" y="60" width="274.2" height="14" fill="#9ad4ff"/>
+<rect x="297.7" y="60" width="224.9" height="14" fill="#6fb6f5"/>
+<rect x="522.1" y="60" width="30.4" height="14" fill="#4f9bea"/>
+<rect x="552.0" y="60" width="3.4" height="14" fill="#3a7fc4"/>
+<rect x="554.9" y="60" width="1.2" height="14" fill="#2d6399"/>
+<rect x="555.6" y="60" width="0.7" height="14" fill="#22486f"/>
+<rect x="555.8" y="60" width="0.7" height="14" fill="#6c6c72"/>
+</g>
+<rect x="24" y="97" width="12" height="12" rx="3" fill="#9ad4ff"/>
+<text x="46" y="108" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >Python</text>
+<text x="272" y="108" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#9ad4ff" text-anchor="end" letter-spacing="0" >51.4%</text>
+<rect x="296" y="97" width="12" height="12" rx="3" fill="#6fb6f5"/>
+<text x="318" y="108" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >TypeScript</text>
+<text x="544" y="108" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#9ad4ff" text-anchor="end" letter-spacing="0" >42.2%</text>
+<rect x="24" y="131" width="12" height="12" rx="3" fill="#4f9bea"/>
+<text x="46" y="142" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >JavaScript</text>
+<text x="272" y="142" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#9ad4ff" text-anchor="end" letter-spacing="0" >5.6%</text>
+<rect x="296" y="131" width="12" height="12" rx="3" fill="#3a7fc4"/>
+<text x="318" y="142" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >PLpgSQL</text>
+<text x="544" y="142" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#9ad4ff" text-anchor="end" letter-spacing="0" >0.5%</text>
+<rect x="24" y="165" width="12" height="12" rx="3" fill="#2d6399"/>
+<text x="46" y="176" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >TSQL</text>
+<text x="272" y="176" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#9ad4ff" text-anchor="end" letter-spacing="0" >0.1%</text>
+<rect x="296" y="165" width="12" height="12" rx="3" fill="#22486f"/>
+<text x="318" y="176" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >Dockerfile</text>
+<text x="544" y="176" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#9ad4ff" text-anchor="end" letter-spacing="0" >0.0%</text>
+<rect x="24" y="199" width="12" height="12" rx="3" fill="#6c6c72"/>
+<text x="46" y="210" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e9e8e3" text-anchor="start" letter-spacing="0" >Other</text>
+<text x="272" y="210" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#9ad4ff" text-anchor="end" letter-spacing="0" >0.0%</text>
+</svg>
