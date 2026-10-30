@@ -94,9 +94,10 @@ def demo() -> dict:
 
 def stats_svg(s: dict) -> str:
     W, H = 580, 250
-    items = [("COMMITS · 12 MO", f"{s['commits']:,}"), ("PULL REQUESTS", f"{s['prs']:,}"),
-             ("PUBLIC REPOS", f"{s['repos']:,}"), ("STARS EARNED", f"{s['stars']:,}"),
-             ("REPOS CONTRIBUTED TO", f"{s['contributed_to']:,}"), ("CONTRIBUTIONS · 12 MO", f"{s['contributions']:,}")]
+    cand = [("COMMITS · 12 MO", s["commits"]), ("PULL REQUESTS", s["prs"]), ("PUBLIC REPOS", s["repos"]),
+            ("REPOS CONTRIBUTED TO", s["contributed_to"]), ("CONTRIBUTIONS · 12 MO", s["contributions"]),
+            ("STARS EARNED", s["stars"]), ("LANGUAGES USED", len(s["languages"])), ("FOLLOWERS", s["followers"])]
+    items = [(k, f"{v:,}") for k, v in cand if v][:6]   # never show an empty zero
     b = [f'<rect width="{W}" height="{H}" rx="14" fill="{BOARD}" stroke="{LINE}"/>',
          t(24, 38, "ON GITHUB", 12, CHALK_MUTED, TYPE, 700, ls=3),
          t(W - 24, 38, f"updated {s['updated']}", 11, CHALK_MUTED, TYPE, 400, "end")]
@@ -111,8 +112,10 @@ def stats_svg(s: dict) -> str:
 def languages_svg(s: dict) -> str:
     W, H = 580, 250
     langs = sorted(s["languages"].items(), key=lambda kv: -kv[1])
-    top, rest = langs[:6], sum(v for _, v in langs[6:])
-    if rest:
+    grand = sum(v for _, v in langs) or 1
+    keep = [kv for kv in langs if kv[1] / grand >= 0.01][:6]          # under 1% folds into Other
+    top, rest = keep, sum(v for k, v in langs if (k, v) not in keep)
+    if rest / grand >= 0.005:
         top.append(("Other", rest))
     total = sum(v for _, v in top) or 1
     b = [f'<rect width="{W}" height="{H}" rx="14" fill="{BOARD}" stroke="{LINE}"/>',
